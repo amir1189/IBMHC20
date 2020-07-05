@@ -11,13 +11,16 @@ The sentiment analysis of Indians after the extension of lockdown announcements 
 
 The aim of this project is to create an ineractive web based COVID-19 Sentiment Analyser. The primary goal is to develop a space where everyone can visualize the impact of COVID-19 on human society in easy and simpler way.This helps to realize how the sentiment of people changes during this time of COVID-19.It will enable visitors to learn impact of COVID-19 by interacting with graphs,maps,charts and other interactive elements as they proceed through the web.
 To develop a twitter sentiment analysis model to understand the following:
+
 _1. Get to know people’s sentiment towards the epidemic_
 _2. Understand the sentiments of people on govt. decision to extend the lockdown_
+
 ![ct3](https://user-images.githubusercontent.com/52466713/86532358-ec092800-bee6-11ea-8ce5-2c5c30a80af2.png)
 
 Twitter and other social media platforms have been bridging the gap between the citizens and government in various countries and are of more prominence in India. Sentiment Analysis of posts on twitter is observed to accurately reveal the sentiments. Analysing real time posts on twitter in India during Covid-19, could help in identifying the mood of the nation.
 
 **Idea General Description**
+
 Twitter is a micro blogging and social networking service on which users post and interact with messages known as "tweets". It’s a great platform to exchange such great Ideas. 
 As now the World is struggling to deal with pandemic disease called Novel Coronavirus (COVID-19). During this lockdown period, people have taken social networks as the medium to express their feelings and find a way to calm themselves down.
 In our proposed idea a country wise sentiment analysis of the tweets related to COVID-19 will be done by using python algorithms which is running as at backend server. In this, tweets from all countries will be gathered at a particular time duration , and which are related to COVID19 in some or the other way. It will analyse how the citizens of different countries are dealing with this situation. The tweets will be collected, pre-processed, and then used for text mining and sentiment analysis with the help of python libraries like tweepy, nltk, pandas data frame, textblob and some more.
