@@ -1,6 +1,7 @@
 # IBMHC20
 **Sentiment Analysis of COVID-19 Tweets – Visualization Dashboard**
-![ct](https://user-images.githubusercontent.com/52466713/86532273-48b81300-bee6-11ea-9f24-138e908ef400.png)
+
+![1_vp1M37AGMOFwCvLxVm62IA](https://user-images.githubusercontent.com/52466713/87548081-a0663380-c6c9-11ea-858c-20246ca1c6b5.jpeg)
 
 **Background**
 
@@ -42,6 +43,8 @@ This website was built using React and also uses mapbox to show maps layered by 
 In our proposed solution we are developing a user friendly webpage which has the feature of time –flexibilty i.e. it take the users desired time period for the sentiment analysis on COVID19 ,duration during which the user wants to know the reaction of public.This’ll help to analyse and monitor the public reaction during any particular case period. For eg. If the government wants to know the opinion of opening of schools from the parents in a week , if the government is imposing any new policies what is the reaction of its citizens ,it can be detected after a two or three week of its implementation etc.
 The website is user friendly easy to handle and has Well Planned Information Architecture that will provide a detailed overall responses of the people towards the defined topics.
 
+![2](https://user-images.githubusercontent.com/52466713/87548246-da373a00-c6c9-11ea-9cfb-34598ec50e28.jpg)
+
 **Business / Social Impact**
 
 Sentiment analysis dashboard represents the overall responses of the people towards any defined topics. It will help the government and organizations for better implementation of any new policy by knowing the responses about the existing policies from their citizens responses.
@@ -56,7 +59,7 @@ _Backend_:  After clicking on START button the command has been transferred to t
 
 **Technologies & Tools**	
 
-Python 3.6,pandas,threading,sqlite3,textblob,tweepy,plotly,dash,dash-html-components,dash-core-componentsIBM Watson Studio, IBM Cloud for Deployment, Any Web frameworks.
+Python 3.6,pandas,threading,sqlite3,textblob,tweepy,plotly,dash,dash-html-components,dash-core-componentsIBM Watson Studio, Herokuapp  Deployment, Any Web frameworks.
 
 **Live dashboard example**
 
@@ -65,4 +68,5 @@ Python 3.6,pandas,threading,sqlite3,textblob,tweepy,plotly,dash,dash-html-compon
 The proposed idea has implemented on the local host by using FLASK web framework so it can be accessible in that particular system only. But doing further some more research it could work on live cloud servers like IBM cloud and would make it easily accessible across the globe through world wide web services in any platform and devices. 
 Also we can add options like to perform sentiment analysis on any other topics just by typing the keyword of it. Also more effective types of dashboard visualization can be plotted.
 Also it’s essential to identify fake tweets as well to stop the spreading of false information among people.
-![ct](https://user-images.githubusercontent.com/52466713/86532273-48b81300-bee6-11ea-9f24-138e908ef400.png)
+
+![1_vp1M37AGMOFwCvLxVm62IA](https://user-images.githubusercontent.com/52466713/87548081-a0663380-c6c9-11ea-858c-20246ca1c6b5.jpeg)
